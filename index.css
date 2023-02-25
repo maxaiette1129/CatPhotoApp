@@ -1,0 +1,42 @@
+body
+{
+	background-color:pink;
+	border-color:none;
+	width:100%;
+}
+h1
+{
+	text-align:center;
+}
+section
+{
+	
+	text-align:center;
+}
+li
+{
+ margin: 0px auto;
+  width: 100px;
+  padding: 0px;
+  text-align: center;
+}
+footer
+{
+	text-align:center;
+}
+a
+{
+	color:black;
+}
+a:visited
+{
+	color:black;
+}
+a:hover
+{
+	color:blue;
+}
+a:active
+{
+	color:yellow;
+}
